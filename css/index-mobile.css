@@ -11,6 +11,11 @@
         font-size: 1.2rem;
     }
 
+    .top-title {
+        text-align: center;
+        margin: 5px 0;
+    }
+
     .top-right img {
         width: 40vw;
     }
