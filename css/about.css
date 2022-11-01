@@ -1,0 +1,80 @@
+/* Top  */
+.top {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.top-left {
+    width: 45vw;
+}
+
+.top-right img {
+    width: 20vw;
+    border: 1px solid;
+    border-radius: 50%;
+}
+
+.info li {
+    list-style: none;
+    padding: 6px 0;
+    font-size: 1.1rem;
+}
+
+/* middle */
+.skills li {
+    list-style: none;
+    font-size: 20px;
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.skill-img img {
+    width: 40px;
+    padding-left: 10px;
+}
+
+.skills-text {
+    padding: 0 10px;
+}
+
+.skill-rating img {
+    width: 100px;
+}
+
+/* bottom  */
+
+.projects {
+    width: 80vw;
+
+}
+
+.project-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.project-link {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+.project-link-tit {
+    font-weight: bold;
+}
+
+.project-link a {
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 5px;
+}
+
+.project-disc {
+    font-size: 18px;
+}
+
+.dis-tit {
+    font-weight: bold;
+}

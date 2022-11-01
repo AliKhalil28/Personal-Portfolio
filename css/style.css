@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* nav bar  */
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    z-index: 100;
+}
+
+.navbar-nav a {
+    font-size: 1.2rem;
+}
+
+.nav-logo {
+    width: 50px;
+}
+
+.nav-socail {
+    width: 30px;
+    border-radius: 30px;
+}
+
+.nav-socail:hover {
+    transform: scale(1.1);
+}
+
+
+.navbar-collapse {
+    justify-content: end;
+}
+
+/* Utals  */
+.title-blue {
+    color: rgb(83, 157, 226);
+}
+
+.btn-blue {
+    background-color: rgb(93, 144, 192);
+    color: white;
+}
+
+.btn-blue:hover {
+    background-color: rgb(165, 199, 231);
+}
+
+main {
+    margin-top: 100px;
+}
+
+/* footer  */
+.footer-logo {
+    width: 45px;
+    border-radius: 10px;
+    margin: 0 5px;
+}

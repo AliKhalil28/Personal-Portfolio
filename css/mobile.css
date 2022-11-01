@@ -1,0 +1,11 @@
+@media only screen and (max-width: 992px) {
+    /* navbar  */
+
+    #navbarNavSocail {
+        flex-direction: row;
+    }
+
+    #navbarNavSocail a {
+        margin-right: 15px;
+    }
+}

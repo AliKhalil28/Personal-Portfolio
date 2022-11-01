@@ -1,0 +1,53 @@
+/* Top Section  */
+.top {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.top-left {
+    width: 45vw;
+}
+
+.top-right img {
+    width: 20vw;
+    border: 1px solid;
+    border-radius: 50%;
+}
+
+/* middle  */
+
+.box {
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(253, 244, 244);
+
+}
+
+.contact-img {
+    width: 8vw;
+    border: 1px solid;
+    border-radius: 50%;
+}
+
+/* bottom  */
+.contact-container {
+    background-color: rgb(253, 244, 244);
+    height: 25vh;
+    width: 70vw;
+    border-radius: 24px;
+
+}
+
+.contact-icons a {
+    text-decoration: none;
+    margin: 10px;
+}
+
+.contact-icons a img {
+    width: 30px;
+}
+
+.contact-icons img:hover {
+    transform: scale(1.1);
+}

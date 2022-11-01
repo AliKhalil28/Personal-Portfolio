@@ -1,0 +1,28 @@
+@media only screen and (max-width: 992px) {
+
+    /* Top  */
+    .top {
+        flex-direction: column-reverse;
+        margin: 15px 0;
+    }
+
+    .top-left {
+        width: 90vw;
+        font-size: 1.2rem;
+    }
+
+    .top-right img {
+        width: 40vw;
+    }
+
+    /* Middle  */
+    .middle {
+        width: 95vw;
+    }
+
+    /* bottom  */
+    .projects {
+        width: 100vw;
+    }
+
+}
