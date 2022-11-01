@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Kanit&family=Ubuntu&display=swap');
+
 * {
     padding: 0;
     margin: 0;
@@ -9,6 +11,7 @@
     top: 0;
     width: 100vw;
     z-index: 100;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .navbar-nav a {
@@ -36,6 +39,7 @@
 /* Utals  */
 .title-blue {
     color: rgb(83, 157, 226);
+    font-family: 'Baloo Bhai 2', cursive;
 }
 
 .btn-blue {
@@ -56,4 +60,5 @@ main {
     width: 45px;
     border-radius: 10px;
     margin: 0 5px;
+    font-family: 'Ubuntu', sans-serif;
 }

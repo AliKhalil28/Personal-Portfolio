@@ -2,6 +2,7 @@
 .top {
     margin-top: 30px;
     margin-bottom: 10px;
+    font-family: 'Kanit', sans-serif;
 }
 
 .top-left {
@@ -21,6 +22,7 @@
     padding: 10px;
     margin: 10px;
     background-color: rgb(253, 244, 244);
+    font-family: 'Ubuntu', sans-serif;
 
 }
 
