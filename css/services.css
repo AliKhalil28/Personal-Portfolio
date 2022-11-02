@@ -1,36 +1,38 @@
-/* Top Section  */
-.top {
-    margin-top: 30px;
-    margin-bottom: 10px;
+.top-desc {
+    font-size: 1.3rem;
     font-family: 'Kanit', sans-serif;
 }
 
-.top-left {
-    width: 45vw;
+
+.box {
+    border: 1px solid grey;
+    width: 39.5vw;
+    padding: 5px 20px;
+    border-radius: 10px;
+    margin: 10px 0;
 }
 
-.top-right img {
+.box img {
     width: 20vw;
-    border: 1px solid;
-    border-radius: 50%;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.box-title {
+    margin-top: 10px;
+}
+
+.box-desc {
+    font-size: 1.2rem;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 /* middle  */
-
-.box {
-    border-radius: 8px;
-    padding: 10px;
-    margin: 10px;
-    background-color: rgb(253, 244, 244);
-    font-family: 'Ubuntu', sans-serif;
-
-}
-
-
-.contact-img {
-    width: 8vw;
-    border: 1px solid;
-    border-radius: 50%;
+.tools-imgs img {
+    width: 100px;
+    margin-right: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 /* bottom  */

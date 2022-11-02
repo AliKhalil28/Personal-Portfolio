@@ -1,0 +1,32 @@
+@media only screen and (max-width: 992px) {
+
+    /* Top  */
+    .boxes {
+        flex-direction: column;
+        margin: 15px 0;
+    }
+
+    .box {
+        width: 90vw;
+        min-height: auto;
+    }
+
+    .box img {
+        width: 30vw;
+        height: auto;
+    }
+
+    /* Middle  */
+    .boxes {
+        flex-direction: column;
+    }
+
+    /* bottom  */
+    .tools-imgs img {
+        width: 40px;
+        margin-right: 30px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+}

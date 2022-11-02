@@ -1,0 +1,21 @@
+main {
+    min-height: 80vh;
+}
+
+.boxes a {
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+.box {
+    border: 1px solid grey;
+    width: 20vw;
+    min-height: 260px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.box img {
+    width: 12vw;
+    height: 200px;
+}

@@ -22,9 +22,11 @@
     width: 50px;
 }
 
+
 .nav-socail {
     width: 30px;
     border-radius: 30px;
+    margin-right: 10px;
 }
 
 .nav-socail:hover {
